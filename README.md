@@ -9,7 +9,7 @@ To use this tool globally as the `temp-conv` command, you need to have [Rust](ht
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ray726-I/Temp-Conv-CLI.git
-   cd Temp-conv-CLI
+   cd Temp-Conv-CLI
    ```
 
 2. Install the binary:
