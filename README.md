@@ -8,8 +8,8 @@ To use this tool globally as the `temp-conv` command, you need to have [Rust](ht
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd temp-conv-tool
+   git clone https://github.com/Ray726-I/Temp-Conv-CLI.git
+   cd Temp-conv-CLI
    ```
 
 2. Install the binary:
@@ -20,19 +20,19 @@ To use this tool globally as the `temp-conv` command, you need to have [Rust](ht
 ## Usage
 
 ```bash
-temp-conv <value> <unit (C/F)>
+temp-conv <value> <unit (c/f)>
 ```
 
 ### Examples
 
 - Convert 100°C to Fahrenheit:
   ```bash
-  temp-conv 100 C
+  temp-conv 100 c
   ```
   Output: `100.00°C is 212.00°F`
 
 - Convert 32°F to Celsius:
   ```bash
-  temp-conv 32 F
+  temp-conv 32 f
   ```
   Output: `32.00°F is 0.00°C`
